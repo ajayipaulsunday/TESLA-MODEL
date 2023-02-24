@@ -1,0 +1,160 @@
+
+#Model-3{
+    height: 790px;
+    background-image: url(./FOTO/M3-Homepage-Desktop-LHD.jpg);
+    background-size: cover;
+    background-position: 1px;
+}
+#Model-3 h1{
+    padding-top: 150px;
+}
+#gap{
+    gap: 10px;
+}
+#ModelS{
+    margin-left: 420px;
+}
+#shop{
+    margin-left: 200px;
+}
+#Modey-3-2{
+    padding-top: 120px;
+}
+
+#button-2{
+    border: none;
+    position: relative;
+    top: 450px;
+    left: 500px;
+    width: 250px;
+    padding: 7px;
+    margin: 10px;
+    border-radius: 5px;
+    color: white;
+}
+#All-span{
+    margin-left: 250px;
+}
+#second-span{
+    margin-left: 100px;
+    text-align: none;
+}
+#second-span:hover{
+    background-color: yellow;
+}
+span:hover{
+    background-color: brown;
+}
+#Model-Y{
+    height: 800px;
+    background-image: url(./FOTO/Desktop-ModelY.jpg);
+    background-size: cover;
+    background-position: 1px;
+}
+#Access-btn{
+    border: none;
+    position: relative;
+    top: 450px;
+    left: 500px;
+    width: 250px;
+    padding: 7px;
+    margin: 10px;
+    border-radius: 5px;
+    color: white;
+}
+#Model-Y h1{
+    padding-top: 140px;
+}
+#button-3{
+    border: none;
+    position: relative;
+    top: 450px;
+    left: 500px;
+    width: 250px;
+    padding: 7px;
+    margin: 10px;
+    border-radius: 5px;
+    color: white;
+}
+#Model-S{
+    height: 800px;
+    background-image: url(./FOTO/Homepage-Model-S-Desktop-LHD.jpg);
+    background-size: cover;
+    background-position: 1px;
+}
+#Model-S h1{
+    padding-top: 140px;
+}
+#Model-X{
+    height: 800px;
+    background-image: url(./FOTO/Homepage-Model-X-Desktop-LHD.jpg);
+    background-size: cover;
+    background-position: 1px;
+}
+#Model-X h1{
+    padding-top: 140px;
+}
+#Solar-Panel{
+    height: 800px;
+    background: url(./FOTO/_25-HP-SolarPanels-D.jpg);
+    /* background-position: 1px; */
+    background-image: cover;
+}
+#Solar-Panel h1{
+    padding-top: 140px;
+}
+#Solar-Panel-btn{
+    border: none;
+    position: relative;
+    top: 350px;
+    left: 500px;
+    width: 250px;
+    padding: 7px;
+    margin: 10px;
+    border-radius: 5px;
+    color: white;
+}
+#Solar-Roof{
+    /* border: 2px solid red; */
+    background-image: url(./FOTO/Solar-Roof-Design-Desktop-Global.webp);
+    height: 800px;
+    background-size: cover;
+}
+#Solar-Roof{
+    padding-top: 140px;
+}
+#Solar-Roof-btn{
+    border: none;
+    position: relative;
+    top: 450px;
+    left: 500px;
+    width: 250px;
+    padding: 7px;
+    margin: 10px;
+    border-radius: 5px;
+    color: white;
+}
+#Accessories{
+    height: 700px;
+    background-image: url(./FOTO/Accessories.jpg);
+    background-size: cover;
+    background-position:1px;
+}
+#Accessories h1{
+    padding-top: 140px;
+}
+#last-world{
+    margin-top: 500px;
+    align-items: center;
+}
+#ui{
+    margin-left: 330px;
+}
+
+
+
+
+
+
+
+

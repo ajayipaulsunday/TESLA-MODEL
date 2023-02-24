@@ -1,0 +1,118 @@
+@media(max-width:600px) {
+#header-respon{
+    /* width: 80%; */
+    font-size: 13px;
+    position: fixed;
+}
+#drope-down{
+    border: 2px solid black;
+    margin-top: 5px;
+}
+#Model-3{
+    height: 700px;
+    background-image: url(./FOTO/M3-Homepage-Desktop-LHD.jpg);
+    background-size: cover;
+    background-position-x: -350px;
+    /* width: 80%; */
+    /* border: 2px solid red; */
+}
+#Model-3 h1{
+    padding-top: 130px;
+}
+#ModelS{
+    margin-left: 1px;
+}
+.nav-link{
+    color: white;
+    border: 2px solid black;
+    width: 25%;
+    border-radius: 5px;
+    height: 40px;
+    text-align: center;
+    justify-content: center;
+}
+.nav-link:hover{
+    background-color: black;
+    color: white;
+}
+#shop{
+    margin-left: 1px;
+}
+#button-2{
+    border: none;
+    position: relative;
+    top: 300px;
+    left: 30px;
+    width: 300px;
+    padding: 7px;
+    margin: 10px;
+    border-radius: 5px;
+    color: white;
+}
+
+#second-span{
+    margin-left: 100px;
+    text-align: none;
+}
+#Model-Y{
+    height: 700px;
+    background-image: url(./FOTO/Desktop-ModelY.jpg);
+    background-size: cover;
+    background-position-x: -200px;
+    /* border: 2px solid red; */
+    /* width: 80%; */
+}
+#button-3{
+    border: none;
+    position: relative;
+    top: 250px;
+    left: 30px;
+    width: 300px;
+    padding: 7px;
+    margin: 10px;
+    border-radius: 5px;
+    color: white;
+    
+}
+#Model-S{
+    height: 700px;
+    background-image: url(./FOTO/Homepage-Model-S-Desktop-LHD.jpg);
+    background-size: cover;
+    background-position-x: -300px;
+    /* border: 2300pxlid red; */
+    /* width: 80%; */
+}
+#Model-X{
+    height: 700px;
+    background-image: url(./FOTO/Homepage-Model-X-Desktop-LHD.jpg);
+    background-size: cover;
+    background-position-x: -200px;
+    /* width: 80%; */
+}
+}
+#Solar-Panel{
+    height: 700px;
+    background-image: url(./FOTO/_25-HP-SolarPanels-D.jpg);
+    background-size: cover;
+    /* background-position-x: -200px; */
+    /* width: 80%; */
+    /* background-image: cover; */
+
+}
+#Solar-Panel-btn{
+    border: none;
+    position: relative;
+    top: 350px;
+    left: 100px;
+    width: 250px;
+    padding: 7px;
+    margin: 10px;
+    border-radius: 5px;
+    color: white;
+}
+#Solar-Roof{
+    padding-top: 140px;
+}
+
+
+
